@@ -1,5 +1,5 @@
 # BREWESTATE — Coffee Shop Website
-Check Live:coffee-shop-brewestate-3ln3fvpi3-bhashkars-projects-84c3588f.vercel.app
+Check Live: https://coffee-shop-brewestate-3ln3fvpi3-bhashkars-projects-84c3588f.vercel.app/#
 
 A modern, cozy, and brand-forward coffee shop website for **Brewestate**.  
 This project highlights our unique blends, warm ambiance, and simple online actions like viewing the menu and booking a table.
